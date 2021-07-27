@@ -23,7 +23,7 @@ RISE is a generic framework for identifying and mitigating performance degradati
 
 ### Resources
 
-See [//RISE/Jupyter/](https://github.com/jiaojiao1234/RISE/tree/master/Jupyter) for the artifact interactive demo of the paper.
+See [//RISE/Jupyter/](https://github.com/jiaojiao1234/RISE/tree/master/Jupyter) for the interactive demo of the paper.
 
 ### Licenses
 
