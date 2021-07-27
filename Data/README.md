@@ -1,12 +1,12 @@
 ## Dataset download link (Baidu Disk)：
 
-##### **link：**https://pan.baidu.com/s/1AIvyei-0XmO70_cASTVkIg 
+#### link：https://pan.baidu.com/s/1AIvyei-0XmO70_cASTVkIg 
 
-##### **password：**dl1h
+#### password：dl1h
 
 ## Datasets description:
 
-#### Case study 1: Gesture recognition
+### Case study 1: Gesture recognition
 
 **WiG&WiAG** file name is in this form: a_b_c.dat, where 'a' represents gesture id, between 'gesture1' and 'gesture6'; 'b' represents scene id, between 's1' and 's5'; 'c' represents instance id. 
 <u>Gesture:</u> gesture1: Push and Pull; gesture2: Draw a Circle; gesture3: Throw; gesture4: Slide; gesture5: Sweep; gesture6: Draw Zigzag;
@@ -20,12 +20,12 @@
 <u>Gesture:</u> gesture1: Push and Pull; gesture2: Draw a Circle; gesture3: Throw; gesture4: Slide; gesture5: Sweep; gesture6: Draw Zigzag;
 <u>Scene:</u> We changed the location where the gestures were performed ( S1, S2, S3 ) and added chairs in different positions to mimic multi-path ( S4, S5 ) when the gestures were peformed at location S1. 
 
-#### Case study 2: Gait recognition
+### Case study 2: Gait recognition
 
 **WiWho&WifiU** file name is in this form: a_b_c.dat, where 'a' represents user's id, between 'u1' and 'u15'; 'b' represents scene id, between 's1' and 's5'; 'c' represents instance id.
 <u>Scene:</u> We asked participants to walk along different paths ( S1, S2, S3 ) and added chairs in different positions to mimic multi-path ( S4, S5 ) when participants were walking along path S1.
 
-#### Case study 3: Activity recognition
+### Case study 3: Activity recognition
 
 **VibWrite** file name is in this form: a_b_c.mat, where 'a' represents user's id, between 'u1' and 'u15'; 'b' represents scene id, between '1' and '14'; 'c' represents grid point id, between '0' and '9'.  
 <u>Scene:</u> We ensured that the sensing area was free of obstacles ( N ) or placing a glass of water at four different locations ( 1, 2, 3, 4 ). In addition, we also asked participants to perform experiments with different fingers, i.e., scene id '5' to '14', when the sensing area was free of obstacles ( N ). 
