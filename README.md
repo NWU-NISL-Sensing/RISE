@@ -1,6 +1,6 @@
 # RISE: Robust Wireless Sensing using Probabilistic and Statistical Assessments
 
-RISE is a generic framework for identifying and mitigating performance degradation issues when deploying a learning-based wireless sensing system in a changing environment. For more details, please refer to the [preprint version](https://arxiv.org/abs/2104.07460) of our paper, "RISE: Robust Wireless Sensing using Probabilistic and Statistical Assessments", which appeared in MobiCom 2021.
+RISE is a generic framework for identifying and mitigating performance degradation issues when deploying a learning-based wireless sensing system in a changing environment. For more details, please refer to the preprint version of our paper, "RISE: Robust Wireless Sensing using Probabilistic and Statistical Assessments", which appeared in MobiCom 2021.
 
 ### Abstract
 
@@ -14,8 +14,9 @@ RISE is a generic framework for identifying and mitigating performance degradati
 ```
 @inproceedings{automated2021zhai,
   title={RISE: Robust Wireless Sensing using Probabilistic and Statistical Assessments},
-  author={},
-  booktitle={Mobicom},
+  author={Shuangjiao Zhai, Zhanyong Tang, Petteri Nurmi, Dingyi Fang,
+  Xiaojiang Chen, Zheng Wang},
+  booktitle={MobiCom},
   year={2021},
   organization={ACM}
 }

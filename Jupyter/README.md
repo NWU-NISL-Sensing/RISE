@@ -11,7 +11,8 @@ Although we have worked hard to ensure our demo are robust, our tool remains a *
 
 ## ★ Docker Image <br id = "dockerimg">
 
-We prepare our demo within a Docker image to run "out of the box". A reduced-sized Docker image can be downloaded from [here](https://drive.google.com/file/d/1gv-APYDCvhBGJj3T15uahfqzRaWTcecj/view?usp=sharing). 
+We prepare our demo within a Docker image to run "out of the box". A reduced-sized Docker image can be downloaded from [here](link：https://pan.baidu.com/s/1Xe7u5PegqkGYmPvdjmfMgA 
+password：t4o9). 
 Our docker image was tested on a host machine running Ubuntu 18.04 and Windows 10.  
 
 ### 1.  Load the Docker Image 
@@ -19,23 +20,25 @@ After downloading the [docker image](#dockerimg), using the following commands t
 
 - ###### Unpack the docker
 
-`unzip rise_zsj_docker.zip`  
+`unzip RISE_docker.zip`  
 
 - ###### Import Docker image
 
-`cat rise_zsj_docker.rar | docker import - rise_zsj:2021052`
+`cat RISE_docker.rar | docker import - rise:202108`
 
 - ###### Run Docker
 
-`docker run -itd --name rise_zsj -p 3921:3921 rise_zsj:20210521 /bin/bash`
+`docker run -itd --name rise -p 3921:3921 rise:202108 /bin/bash`
 
 - ###### Enter the docker
 
-`docker exec -it rise_zsj /bin/bash`
+`docker exec -it rise /bin/bash`
 
-- ###### Enter RISE code and 
+- ###### Enter RISE code
 
-`cd root/rise`
+`cd root/RISE-Version2`
+
+`Password: nisl8830`
 
 ### 2. Evaluation  
 
