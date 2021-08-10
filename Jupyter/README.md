@@ -11,7 +11,7 @@ Although we have worked hard to ensure our demo are robust, our tool remains a *
 
 ## ★ Docker Image <br id = "dockerimg">
 
-We prepare our demo within a Docker image to run "out of the box". A reduced-sized Docker image can be downloaded from [here](link：https://pan.baidu.com/s/1_K5XTQtzNBxq9qFo8kBK1Q password：vf8h). 
+We prepare our demo within a Docker image to run "out of the box". A reduced-sized Docker image can be downloaded from [here](link：https://pan.baidu.com/s/1_K5XTQtzNBxq9qFo8kBK1Qpassword：vf8h). 
 
 Our docker image was tested on a host machine running Ubuntu 18.04 and Windows 10.  
 
