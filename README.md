@@ -14,8 +14,7 @@ RISE is a generic framework for identifying and mitigating performance degradati
 ```
 @inproceedings{automated2021zhai,
   title={RISE: Robust Wireless Sensing using Probabilistic and Statistical Assessments},
-  author={Shuangjiao Zhai, Zhanyong Tang, Petteri Nurmi, Dingyi Fang,
-  Xiaojiang Chen, Zheng Wang},
+  author={Shuangjiao Zhai, Zhanyong Tang, Petteri Nurmi, Dingyi Fang, Xiaojiang Chen, Zheng Wang},
   booktitle={MobiCom},
   year={2021},
   organization={ACM}
